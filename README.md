@@ -2,10 +2,13 @@
 
 I am an <b>Computer Engineering Student</b>. 🚀<br>
 I have experience with frontend, backend and image processing.   <br>
-I am currently learning Machine Learning. 🤖
+I am currently learning Machine Learning. 🧠
 
 ## Contact Me
 <p><a href="https://www.linkedin.com/in/ahmetcelalko%C3%A7/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a> </p>
+
+## Projects
+<p><b>🤖ASSET: </b><a>https://www.youtube.com/watch?v=Ioz9OjuOODU</a></p>
 
 ## Skills
 
