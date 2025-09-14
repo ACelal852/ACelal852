@@ -1,7 +1,7 @@
 # Hello 👋, I'm Ahmet Celal Koç
 
 I am an <b>Computer Engineering Student</b>. 🚀<br>
-I have experience with frontend, backend and image processing.   <br>
+I have experience with frontend, backend and image processing. 🖼️   <br>
 I am currently learning Machine Learning. 🧠
 
 ## Contact Me
